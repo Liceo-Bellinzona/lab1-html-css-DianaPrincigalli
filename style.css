@@ -5,7 +5,20 @@ h1 {
   p {
     font-family: Georgia
   }
-  h2 {color:palevioletred ; font-family: Georgia}
-  ul { font-family: Georgia}
-  a{color: palevioletred;}
-  img{}
+ h2 {
+  color:palevioletred ; 
+  font-family: Georgia ; 
+  text-align: center; 
+  background-color: lavenderblush;
+  border-radius: 10px;
+}
+
+img {
+   border-radius: 15px ;
+    text-align: center;
+   margin: auto;
+   display: block;
+ }
+
+  ul { font-family: Georgia;}
+  a{color: palevioletred; }
