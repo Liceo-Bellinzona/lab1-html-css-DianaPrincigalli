@@ -1,1 +1,11 @@
-""
+h1 {
+    color: mediumvioletred;
+    text-align: center; font-family: Georgia;
+  }
+  p {
+    font-family: Georgia
+  }
+  h2 {color:palevioletred ; font-family: Georgia}
+  ul { font-family: Georgia}
+  a{color: palevioletred;}
+  img{}
