@@ -1,6 +1,6 @@
 h1 {
     color: mediumvioletred;
-    text-align: center; font-family: Georgia;
+    text-align: center; font-family: Georgia, 'Times New Roman', Times, serif;
   }
   p {
     font-family: Georgia
@@ -21,4 +21,6 @@ img {
  }
 
   ul { font-family: Georgia;}
-  a{color: palevioletred; }
+  a{color: rgb(216, 112, 147); text-decoration: none;  } 
+  a:hover {color: pink;} 
+ 
